@@ -27,6 +27,14 @@ Requirements to the implementation:
 5. The implementation may use constructs of C++11 or higher.
 6. The code must compile with any compiler of your choice (gcc, Visual C++, etc).
 
+Curve definitions:
+- All curves are parametrically defined, i.e. a point is calculated using some C(t) formula.
+- Circle is planar in the plane XoY (i.e. all Z-coordinates are 0) and is defined by its radius.
+- Ellipse is planar in the plane XoY and is defined by its two radii, along X and Y axes.
+- Helix is spatial and is defined by its radius and step (see the figure below). It takes 2 * PI in
+parametric space to make a round, i.e. any point on helix satisfies the condition C(t + 2*PI) = C(t) +
+{0, 0, step}.
+
 ## Installation and launch
 
 Run the following commands in sequence(in build folder):
