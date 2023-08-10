@@ -1,0 +1,4 @@
+/home/nikita/Рабочий стол/curves/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Рабочий стол/curves/build/CMakeFiles/edit_cache.dir
+/home/nikita/Рабочий стол/curves/build/CMakeFiles/main.dir
+/home/nikita/Рабочий стол/curves/build/CMakeFiles/curves.dir

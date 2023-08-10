@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/Рабочий стол/curves/circle.cpp
+circle.h
+/home/nikita/Рабочий стол/curves/circle.h
+
+/home/nikita/Рабочий стол/curves/circle.h
+ellipse.h
+/home/nikita/Рабочий стол/curves/ellipse.h
+
+/home/nikita/Рабочий стол/curves/curve.cpp
+curve.h
+/home/nikita/Рабочий стол/curves/curve.h
+
+/home/nikita/Рабочий стол/curves/curve.h
+vect.h
+/home/nikita/Рабочий стол/curves/vect.h
+exception.h
+/home/nikita/Рабочий стол/curves/exception.h
+
+/home/nikita/Рабочий стол/curves/ellipse.cpp
+ellipse.h
+/home/nikita/Рабочий стол/curves/ellipse.h
+
+/home/nikita/Рабочий стол/curves/ellipse.h
+curve.h
+/home/nikita/Рабочий стол/curves/curve.h
+
+/home/nikita/Рабочий стол/curves/exception.h
+
+/home/nikita/Рабочий стол/curves/helix.cpp
+helix.h
+/home/nikita/Рабочий стол/curves/helix.h
+
+/home/nikita/Рабочий стол/curves/helix.h
+curve.h
+/home/nikita/Рабочий стол/curves/curve.h
+
+/home/nikita/Рабочий стол/curves/point.cpp
+point.h
+/home/nikita/Рабочий стол/curves/point.h
+
+/home/nikita/Рабочий стол/curves/point.h
+iostream
+-
+
+/home/nikita/Рабочий стол/curves/vect.cpp
+vect.h
+/home/nikita/Рабочий стол/curves/vect.h
+
+/home/nikita/Рабочий стол/curves/vect.h
+point.h
+/home/nikita/Рабочий стол/curves/point.h
+memory
+-
+cmath
+-
+

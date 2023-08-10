@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/point.cpp.o CMakeFiles/main.dir/vect.cpp.o CMakeFiles/main.dir/curve.cpp.o CMakeFiles/main.dir/ellipse.cpp.o CMakeFiles/main.dir/circle.cpp.o CMakeFiles/main.dir/helix.cpp.o  -o main 
